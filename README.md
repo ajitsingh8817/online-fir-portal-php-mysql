@@ -54,12 +54,6 @@ The system is designed to:
     http://localhost/online_fir_portal/index.php
     ```
 
----
-
-## 🔑 Default Login Credentials
-```text
-Username: admin
-Password: admin123
 
 
 📢 Note
